@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻Working in the cloud since 2022<br>✨I'm currently learning Docker and Kubernetes<br>🏅1x AWS Certified<br>💡Goals: live in a cool place and make magic<br>💦I play chess online and read during my free time.</p>
+<p align="left">👨‍💻Working in the cloud since 2022<br>✨I'm currently learning Docker and Kubernetes<br>🏅1x AWS Certified<br>💡Goals: live in a cool place and make magic<br>💦I play chess online and read books during my free time.</p>
 
 ###
 
