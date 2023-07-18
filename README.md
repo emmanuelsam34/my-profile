@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emmanuel Agbedejobi and I'm a Cloud Engineer. I'm from Lagos, Nigeria</p>
+<p align="left">My name is Emmanuel Agbedejobi and I'm a DevOps/Cloud Engineer. I'm from Lagos, Nigeria</p>
 
 ###
 
