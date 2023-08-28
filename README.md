@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emmanuel Agbedejobi and I'm a DevOps/Cloud Architect Enthusiast. I'm from Lagos, Nigeria. I'm open to remote jobs, collaborations and freelance opportunities</p>
+<p align="left">My name is Emmanuel Agbedejobi and I'm a DevOps/Cloud Architect Enthusiast. I'm from Lagos, Nigeria. I'm open to remote jobs, collaborations and freelance opportunities.</p>
 
 ###
 
